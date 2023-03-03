@@ -28,7 +28,7 @@ $updateChecker = PucFactory::buildUpdateChecker(
 );
 
 // Optional: If you're using a private repository, specify the access token like this:
-$updateChecker->setAuthentication( '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' );
+$updateChecker->setAuthentication( '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' );
 
 // Optional: Set the branch that contains the stable release.
 $updateChecker->setBranch( 'main' );
