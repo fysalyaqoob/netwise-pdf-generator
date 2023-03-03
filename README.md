@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# NetWise-PDF-Generator
-A custom plugin for NetWise's client to generate PDF
 =======
 # Netwise PDF Generator
 
@@ -47,4 +44,3 @@ mPDF is a PHP library that allows you to generate PDF files from HTML content. T
 ## Upgrade Notice
 
 There are no special instructions for upgrading the plugin. Simply deactivate and delete the old version, and then install and activate the new version.
->>>>>>> master
