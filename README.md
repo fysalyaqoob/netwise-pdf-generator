@@ -1,4 +1,3 @@
-=======
 # Netwise PDF Generator
 
 Contributors: Faisal Yaqoob
